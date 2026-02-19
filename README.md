@@ -86,8 +86,6 @@ Redux Toolkit • React Query • Context API • Zustand
 
 ---
 
----
-
 ## 🛍️ Prism.fi — Modern E-commerce Experience
 
 🌐 Live: https://prism.fi/    
