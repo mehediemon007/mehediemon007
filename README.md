@@ -65,7 +65,7 @@ Redux Toolkit • React Query • Context API • Zustand
 ## 🛒 Multi-Vendor eCommerce Platform (Bazrin)
 
 🌐 Live: http://www.bazrin.com  
-🛠 Tech: Next.js, Redux Toolkit, SSR, REST APIs  
+🛠 Tech: Next.js, SSR, Zustand, REST APIs  
 ⚡ Performance: 96+ Lighthouse Score  
 
 <p align="center">
@@ -82,6 +82,26 @@ Redux Toolkit • React Query • Context API • Zustand
 
 <p align="center">
   <img src="YOUR_SCREENSHOT_LINK_HERE" width="800"/>
+</p>
+
+---
+
+---
+
+## 🛍️ Prism.fi — Modern E-commerce Experience
+
+🌐 Live: https://prism.fi/    
+🛠 Tech: Next.js, React, TypeScript, Performance Optimization  
+⚡ Focus: Scalable architecture, UI performance, SEO optimization  
+
+✨ Highlights:
+- Built modern, responsive, pixel-perfect UI
+- Optimized performance & Core Web Vitals
+- Implemented reusable component architecture
+- SEO-friendly structure with clean routing
+
+<p align="center">
+  <img src="YOUR_PRISM_SCREENSHOT_LINK" width="800"/>
 </p>
 
 ---
