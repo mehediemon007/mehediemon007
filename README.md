@@ -86,10 +86,10 @@ Redux Toolkit • React Query • Context API • Zustand
 
 ---
 
-## 🛍️ Prism.fi — Modern E-commerce Experience
+## 🛍️ Prism.fi — Crypto Credit Card
 
 🌐 Live: https://prism.fi/    
-🛠 Tech: Next.js, React, TypeScript, Performance Optimization  
+🛠 Tech: Next.js, Tailwind CSS, Shadcn UI, Redux, Performance Optimization  
 ⚡ Focus: Scalable architecture, UI performance, SEO optimization  
 
 ✨ Highlights:
